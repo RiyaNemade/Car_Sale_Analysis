@@ -75,6 +75,9 @@ DAX functions used: `TOTALYTD()`, `TOTALMTD()`, `SAMEPERIODLASTYEAR()`, `DIVIDE(
 - Created custom columns for Price Segments and YoY comparison
 
 ---
+![Dashboard_1](https://github.com/user-attachments/assets/b853d1da-1769-465a-9ce3-81f9c1e6b9b4)
+
+![Dashboard_2](https://github.com/user-attachments/assets/cc17c7a6-b4d5-4382-8ec3-8de482c272cf)
 
 ## 📈 Dashboard Features
 
